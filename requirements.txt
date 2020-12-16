@@ -1,0 +1,12 @@
+voila
+pandas
+numpy
+sklearn
+voila-material
+packaging
+bqplot
+ipympl
+ipyvolume
+ipywidgets
+IPython
+scipy
